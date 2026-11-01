@@ -1,0 +1,18 @@
+{
+  "name": "LEVIANO 💗💋",
+  "description": "SESSION ID GENERATOR FOR WHATSAPP BOTS",
+  "logo": "https://levianoxd.orionbey76.workers.dev/f/img-1793275168117.jpg",
+  "repository": "https://github.com",
+  "keywords": ["@Leviano-XD"],
+  "success_url": "/", 
+  "buildpacks": [
+    { "url": "https://github.com" }
+  ],
+  "env": {      
+    "MESSAGE": {
+      "description": "Msg Attached With Session ID",
+      "value": "🔰 BY || LEVIANO XD OFFICIAL 🔰",
+      "required": false 
+    }
+  }
+}
